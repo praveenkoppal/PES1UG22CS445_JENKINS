@@ -1,8 +1,9 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, Jenkins Webhook Triggered Successfully!" << std::endl;
+    std::cout << "Hello from Jenkins Pipeline!" << std::endl;
     return 0;
 }
+
 
 
